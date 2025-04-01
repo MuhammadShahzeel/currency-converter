@@ -1,6 +1,6 @@
 import React from "react";
 import { useState } from "react";
-import { currencyConverter } from "./api/postApi";
+import { currencyConverter } from "./api/PostApi";
 
 const App = () => {
   const [amount, setAmount] = useState(1);
