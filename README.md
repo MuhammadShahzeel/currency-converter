@@ -1,1 +1,1 @@
-currency converter
+currency converter using react and axios.
